@@ -20,5 +20,5 @@
 
 <p align="center">
   <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=BryanVanWinnendael&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="48%" />
-  <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=BryanVanWinnendael&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="48%" />
+  <img src="https://raw.githubusercontent.com/BryanVanWinnendael/BryanVanWinnendael/refs/heads/main/assets/gif.gif" width="48%" />
 </p>
