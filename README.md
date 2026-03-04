@@ -1,13 +1,24 @@
+<img src="https://raw.githubusercontent.com/BryanVanWinnendael/BryanVanWinnendael/refs/heads/main/assets/background.jpg" alt="bryanvanwinnendael" />
+
 <h1 align="center">Hi 👋, I'm Bryan Van Winnendael</h1>
-<h3 align="center">SOFTWARE DEVELOPER AT YPTO</h3>
+<h3 align="center">SOFTWARE DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanvanwinnendael&label=Profile%20views&color=0e75b6&style=flat" alt="bryanvanwinnendael" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bryanvanwinnendael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryanvanwinnendael" height="30" width="40" /></a>
+
+  <a href="https://bryanvanwinnendael.me">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" />
+  </a>
+   <a href="https://linkedin.com/in/bryanvanwinnendael">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanvanwinnendael&show_icons=true&layout=compact&theme=dark" alt="bryanvanwinnendael" /></p>
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=BryanVanWinnendael" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanvanwinnendael&show_icons=true&theme=dark" alt="bryanvanwinnendael" /></p>
+<p align="center">
+  <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=BryanVanWinnendael&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="48%" />
+  <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=BryanVanWinnendael&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="48%" />
+</p>
