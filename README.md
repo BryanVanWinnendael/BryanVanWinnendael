@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BryanVanWinnendael/BryanVanWinnendael/refs/heads/main/assets/background.jpg" alt="bryanvanwinnendael" />
+<img src="https://raw.githubusercontent.com/BryanVanWinnendael/BryanVanWinnendael/refs/heads/main/assets/background.gif" alt="bryanvanwinnendael" />
 
 <h1 align="center">Hi 👋, I'm Bryan Van Winnendael</h1>
 <h3 align="center">SOFTWARE DEVELOPER</h3>
